@@ -1,0 +1,11 @@
+1) open data files: 
+- main.py is the main program; Run this
+2) save data files: 
+- The data does not automatically save. You have to click 'Save' from the menu button ('File) 
+3) run the game: 
+- First, select the account 
+- Then, enter the PIN, then click OK 
+- If you are an employee, you can add new products 
+- Enter the qty that you want to order, click add order
+- If you want to complete order, click submit
+
